@@ -1,0 +1,11 @@
+.App {
+    text-align: center;
+}
+
+#header {
+    display: inline-flex;
+    list-style: none;
+}
+#header > li {
+    padding: 10px;
+}
